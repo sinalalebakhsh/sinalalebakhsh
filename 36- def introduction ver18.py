@@ -20,3 +20,12 @@ def addition_of_numbers(*args, **kwargs):
         
 
 addition_of_numbers(1,2,3,4,a='sina',b=10,c='mahsa',d=20)
+
+
+# # output
+# [1, 2, 3, 4]
+# (1, 2, 3, 4)
+# {'a': 'sina', 'b': 10, 'c': 'mahsa', 'd': 20}
+# dict_items([('a', 'sina'), ('b', 10), ('c', 'mahsa'), ('d', 20)])
+# [('a', 'sina'), ('b', 10), ('c', 'mahsa'), ('d', 20)]
+# a sina|b 10|c mahsa|d 20|
