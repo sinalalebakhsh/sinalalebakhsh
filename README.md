@@ -4,7 +4,6 @@
 ### :man_technologist: I'm Sina Lalebakhsh and I'm Pentest & Hunt lover. 
 I first learned the Python programming language. Then I got acquainted with Django and network penetration testing. I am currently learning how to test web application penetration
 
-<img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
 
 <br>
 <h2>Social Networks</h2>
