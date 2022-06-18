@@ -34,8 +34,8 @@ I first learned the Python programming language. Then I got acquainted with Djan
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&hide=html&layout=compact&theme=highcontrast" />
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
