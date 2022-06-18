@@ -8,29 +8,27 @@ I first learned the Python programming language. Then I got acquainted with Djan
 <br>
 <h2>Social Networks</h2>
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+ [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] 
 
-[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
-[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/MosFazli
-[2]: https://www.linkedin.com/in/mosfazli/
-[3]: https://www.instagram.com/mosfazli
-[4]: http://telegram.me/MosFazli
+[2.2]: https://s6.uupload.ir/files/2_96dw.png
+[3.2]: https://s6.uupload.ir/files/1_7xy9.png
+
+
+[2]: https://www.linkedin.com/in/sina-lalebakhsh-137a41237/
+[3]: https://www.instagram.com/sinalalebakhsh
 
 <br>
 <h2>Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,redux,nextjs,vue,netlify,html,css,js,ts,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,materialui,python,django,mysql,sqlite,mongo,c,cpp,java,github" />
+    <img src="https://skillicons.dev/icons?i=python,django,github" />
   </a>
 </p>
 
