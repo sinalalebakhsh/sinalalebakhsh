@@ -4,6 +4,7 @@
 ### :man_technologist: I'm Sina Lalebakhsh and I'm Pentest & Hunt lover. 
 I first learned the Python programming language. Then I got acquainted with Django and network penetration testing. I am currently learning how to test web application penetration
 
+سلام به دوستان عزیز ، سینا لاله بخش هستم. علاقه مند به تست نفوذ و کشف آسیب پذیری. برنامه نویسی رو با پایتون شروع کردم. در حال یادگیری جنگو و تست نفوذ شبکه و وب اپلیکیشن هستم. امیدوارم در کنار شما همراهان برنامه های جالبی بسازیم. همچنین کمک کنیم تا فضای مجازی جای باحال تری باشه برای تمام مردم.
 
 <br>
 <h2>Social Networks</h2>
