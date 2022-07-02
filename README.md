@@ -24,12 +24,12 @@ I first learned the Python programming language. Then I got acquainted with Djan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,django,github" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,github" />
+    <img src="https://skillicons.dev/icons?i=javascript" /> just 2% :)
   </a>
 </p>
 
