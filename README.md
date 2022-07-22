@@ -53,21 +53,14 @@ I first learned the Python programming language. Then I got acquainted with Djan
   </a>
 </p>
 
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <br>
-  <img height="150px"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&show_icons=true&theme=highcontrast" />
-  <img height="150px" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&hide=html&layout=compact&theme=highcontrast" />
-
-
-
+<summary><b>:gear: &nbsp;Git statistics</b></summary>
 <br>
+
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=sinalalebakhsh&color=grey">
+     <img height="150px"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&show_icons=true&theme=highcontrast" />
+     <img height="150px" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&hide=html&layout=compact&theme=highcontrast" />
 </p>
-<p align="center">
-    <a href="https://leetcode.com/sinalalebakhsh/"><img width="48%" src="https://leetcode.card.workers.dev/sinalalebakhsh?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    
-    <a href="https://github.com/sinalalebakhsh"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-    
-</p>
+
+
+
 
