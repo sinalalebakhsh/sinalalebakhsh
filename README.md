@@ -1,5 +1,25 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SinaLalebakhsh%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=my-portfolio%20&fontAlignY=40&color=gradient)
  
+ <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=سلام+دوستان;Hello+friends;Thanks+for+wathing+my+page;You+are+amazing&font=Fira%20Code&color=%23D62F79&center=true&width=350&height=50">
+    
+</p>
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> 
+
+<p align="center">
+    <h1 align="center">✩&emsp;Sinalalebakhsh&emsp;✩</h1>
+</p>
+<p align="center">
+    I love technology. Interested in discovering vulnerabilities. Bug Bunty. I did some work with Python, Django, Bash, JavaScript, Linux.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### :man_technologist: I'm Sina Lalebakhsh and I'm Pentest & Hunt lover. 
 I first learned the Python programming language. Then I got acquainted with Django and network penetration testing. I am currently learning how to test web application penetration
@@ -33,11 +53,21 @@ I first learned the Python programming language. Then I got acquainted with Djan
   </a>
 </p>
 
-<details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&hide=html&layout=compact&theme=highcontrast" />
- 
+  <br>
+  <img height="150px"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&show_icons=true&theme=highcontrast" />
+  <img height="150px" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&hide=html&layout=compact&theme=highcontrast" />
 
- 
- </details>
+
+
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=sinalalebakhsh&color=grey">
+</p>
+<p align="center">
+    <a href="https://leetcode.com/sinalalebakhsh/"><img width="48%" src="https://leetcode.card.workers.dev/sinalalebakhsh?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    
+    <a href="https://github.com/sinalalebakhsh"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    
+</p>
+
