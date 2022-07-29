@@ -11,7 +11,7 @@
     <h1 align="center">✩&emsp;Sinalalebakhsh&emsp;✩</h1>
 </p>
 <p align="center">
-    I love technology. Interested in discovering vulnerabilities. Bug Bunty. I did some work with Python, Django, Bash, JavaScript, Linux.
+    I love technology. Interested in discovering vulnerabilities. Bug Bunty. I did some work with Python, Django, Bash, JavaScript, Linux, PHP.
 
 
 <br>
