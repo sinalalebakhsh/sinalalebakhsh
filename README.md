@@ -49,7 +49,7 @@ I first learned the Python programming language. Then I got acquainted with Djan
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,php" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,go" />
   </a>
 </p>
 
