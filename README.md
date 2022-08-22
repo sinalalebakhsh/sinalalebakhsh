@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=my-portfolio%20&fontAlignY=40&color=gradient)
  
  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=سلام+دوستان;Hello+friends;Thanks+for+wathing+my+page;You+are+amazing&font=Fira%20Code&color=%23D62F79&center=true&width=350&height=50">
+  nature! Your future is my choice
     
 </p>
 
