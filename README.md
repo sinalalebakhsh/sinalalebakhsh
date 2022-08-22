@@ -23,15 +23,18 @@ I first learned the Python programming language. Then I got acquainted with Djan
 <br>
 <h2>Social Networks</h2>
 
- [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] 
 
+<p align="center">
+<a href="https://www.linkedin.com/in/sina-lalebakhsh-137a41237/">
+  <h2 align="center">Linkedin</h2>
+</a>
 
-[2.2]: https://s6.uupload.ir/files/2_96dw.png
-[3.2]: https://s6.uupload.ir/files/1_7xy9.png
-
-
-[2]: https://www.linkedin.com/in/sina-lalebakhsh-137a41237/
-[3]: https://www.instagram.com/sinalalebakhsh
+</p>
+<p align="center">
+<a href="https://www.instagram.com/sinalalebakhsh/">
+  <h2 align="center">Instagram</h2>
+</a>
+</p>
 
 <br>
 <h2>Skills</h2>
