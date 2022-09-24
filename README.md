@@ -41,12 +41,12 @@ I first learned the Python programming language. Then I got acquainted with Djan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,python,django,github" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,django,github,discord,linux" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,php,go" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,flask,bash,c,mysql" />
   </a>
 </p>
 
