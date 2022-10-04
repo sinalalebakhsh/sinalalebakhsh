@@ -50,14 +50,5 @@ I first learned the Python programming language. Then I got acquainted with Djan
   </a>
 </p>
 
-<summary><b>:gear: &nbsp;Git statistics</b></summary>
-<br>
-
-<p align="center">
-     <img height="150px"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&show_icons=true&theme=highcontrast" />
-     <img height="150px" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&hide=html&layout=compact&theme=highcontrast" />
-</p>
-
-
 
 
