@@ -19,14 +19,14 @@ I first learned the Python programming language. Then I got acquainted with Jasa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,python,django,github,discord,linux" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,django,github,discord,linux,javascript,php,flask,bash,c,mysql,html" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,php,flask,bash,c,mysql,html" />
   </a>
-</p>
+</p> -->
 
 
 
