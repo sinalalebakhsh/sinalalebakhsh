@@ -1,5 +1,5 @@
- <img src="https://acronproject.com/sinalalebakhsh/" width="200"> 
 
+![alt text](https://acronproject.com/sinalalebakhsh/)
 
 <p align="center">
     <h1 align="center">&emsp;Sinalalebakhsh&emsp;</h1>
