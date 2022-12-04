@@ -1,5 +1,4 @@
 
-![alt text](https://acronproject.com/sinalalebakhsh/)
 
 <p align="center">
     <h1 align="center">&emsp;Sinalalebakhsh&emsp;</h1>
