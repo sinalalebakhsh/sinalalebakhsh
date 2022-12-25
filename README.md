@@ -17,7 +17,7 @@ I first learned the Python programming language. Then I got acquainted with Jasa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,python,django,linux,javascript,php,bash" />
+    <img src="https://skillicons.dev/icons?i=git,python,django,linux,javascript" />
   </a>
 </p>
 <!-- <p align="center">
