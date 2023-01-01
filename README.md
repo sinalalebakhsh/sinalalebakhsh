@@ -3,28 +3,36 @@
 <p align="center">
     <h1 align="center">&emsp;Sinalalebakhsh&emsp;</h1>
 </p>
-<p align="center">
-    I love technology. Interested in discovering vulnerabilities. Bug Bunty. I did some work with Python, Django, Bash, JavaScript, Linux, PHP.
+<p align="center"><h3>I like technology, In this way I want to know discovering vulnerabilities.</h3></p>
+
+<p align="center"><h3>After learning Python language,I learning Golang now. Along with learning the Go language, I gain experience with technologies related to vulnerability discovery for web applications.</h3></p>
 
 
-
-### :man_technologist: I'm Sina Lalebakhsh and I'm Pentest & Hunt lover. 
-I first learned the Python programming language. Then I got acquainted with JasaScript and network penetration testing. I am currently learning how to test web application penetration
-
-سلام به دوستان عزیز ، سینا لاله بخش هستم. علاقه مند به تست نفوذ و کشف آسیب پذیری. برنامه نویسی رو با پایتون شروع کردم. در حال یادگیری جاوااسکریپت و تست نفوذ شبکه و وب اپلیکیشن هستم. امیدوارم در کنار شما همراهان برنامه های جالبی بسازیم. همچنین کمک کنیم تا فضای مجازی جای باحال تری باشه برای تمام مردم.
 
 <h2>Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,django,linux,javascript" />
+    <img src="https://skillicons.dev/icons?i=git,python,go,linux,javascript" />
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,php,flask,bash,c,mysql,html" />
+    <img src="https://skillicons.dev/icons?i=docker,vscode" />
   </a>
-</p> -->
+</p>
 
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 
