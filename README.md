@@ -47,7 +47,7 @@
 ## In the security world, I think we need:
 1. Python
 2. Golang ***100%***
-3. Django Or Flask Or another Framworks
+3. Django, Flask, React, Or another Framworks
 4. Linux
 5. IELTS 7+ (for Iranians)
 6. Network+
