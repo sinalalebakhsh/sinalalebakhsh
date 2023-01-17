@@ -63,8 +63,5 @@
 #### I think with this, we can understand how we can do. and what are we doing. 
     
     
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
 
 
