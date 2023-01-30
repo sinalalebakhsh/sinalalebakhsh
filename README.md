@@ -1,7 +1,8 @@
 # Sina Lalebakhsh
 
 
-    
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sina-lalebakhsh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/sina-lalebakhsh?trk=profile-badge">Sina Lalebakhsh</a></div>
+                 
     
 
 [![Linkedin URL](https://img.shields.io/badge/social-linkendin-blue?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/sina-lalebakhsh/)
