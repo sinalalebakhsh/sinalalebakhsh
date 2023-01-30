@@ -62,7 +62,16 @@
 14. C language (For Advance Hunt Tool)
 15. DevOps ***90%***
 #### I think with this, we can understand how we can do. and what are we doing. 
+ </details>
     
-    
-
-
+<details>
+  <summary>The Vision</summary>
+ <h5>My wish was speaking to my stars of dream sky. </h5>
+ <h5>And now my wish has come true. </h5>
+ <h5>Because all of you was my stars of dream sky. </h5> 
+ <h5>all readers this page is my stars. </h5>
+ <h5>Every teacher who taught me something became one of the stars of my night. </h5>
+ <h5>You can never fight to achieve peace!!!!</h5>
+ <h5>You can only go towards world peace by learning and teaching.</h5>
+ <h5>Learning and teaching the meaning of freedom and awareness.</h5>
+ <h5>Sina Lalehbakhsh 2023 January - 1401 Bahman</h5>
