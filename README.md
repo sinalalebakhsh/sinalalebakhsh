@@ -53,10 +53,7 @@
 
 <details>
   <summary>Certifications 
-    <img src="img-buildkite-64/grype.png" 
-    width="20" 
-    height="20" 
-    alt="grype"/>
+    <img src="img-buildkite-64/grype.png" width="20" height="20" alt="grype"/> | `:grype:`
   </summary>
   <p align="center">
     <img 
