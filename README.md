@@ -52,7 +52,7 @@
 </p>
 
 <details>
-  <summary>Certifications ⚡</summary>
+  <summary>Certifications :amazon-chime:</summary>
   <p align="center">
     <img 
     src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
