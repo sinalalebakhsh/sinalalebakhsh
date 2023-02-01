@@ -24,32 +24,26 @@
 <p align="center"><h3>After learning Python language,I learning Golang now. Along with learning the Go language, I gain experience with technologies related to vulnerability discovery for web applications.</h3></p>
 
 
+<details>
+  <summary>Skills
+      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/pnpm.png" 
+      width="20" 
+      height="20" 
+      alt="grype"/>
+  </summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,python,go,linux,docker,vscode,django,javascript,kubernetes" />
+    </a>
+  </p>
 
-<h2>Skills</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,postgresql,c,discord,heroku,php,vim,nginx,github" />
+    </a>
+  </p>
+</details>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,go,linux,docker,vscode,django,javascript,kubernetes" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,postgresql,c,discord,heroku,php,vim,nginx,github" />
-  </a>
-</p>
-
-
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
-  </a>
-</p> -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    
-  </a>
-</p>
 
 <details>
   <summary>Certifications 
@@ -97,6 +91,7 @@
       alt="grype"/>
   </summary>
 <h2>In the security world, I think we need:</h2>
+
 1. Python
 2. Golang ***100%***
 3. Django, Flask, React, Or another Framworks
@@ -112,6 +107,7 @@
 13. SQL
 14. C language (For Advance Hunt Tool)
 15. DevSecOps 
+
 I think with this, we can understand how we can do. and what are we doing. 
 </details>
 
