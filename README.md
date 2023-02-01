@@ -97,25 +97,25 @@
       alt="grype"/>
   </summary>
     
-      # In the security world, I think we need:
+  <h2>In the security world, I think we need:</h2>
 
-      1. Python
-      2. Golang ***100%***
-      3. Django, Flask, React, Or another Framworks
-      4. Linux
-      5. IELTS 7+ (for Iranians)
-      6. Network+
-      7. VPN (stand for: Virtual Private Network)
-      8. Docker
-      9. OWASP
-      10. JavaScript ***100%***
-      11. Bash (Bourne-again SHell)
-      12. PHP
-      13. SQL
-      14. C language (For Advance Hunt Tool)
-      15. DevOps ***90%***
-      
-      #### I think with this, we can understand how we can do. and what are we doing. 
+  Python
+  Golang ***100%***
+  Django, Flask, React, Or another Framworks
+  Linux
+  IELTS 7+ (for Iranians)
+  Network+
+  VPN (stand for: Virtual Private Network)
+  Docker
+  OWASP
+  JavaScript ***100%***
+  Bash (Bourne-again SHell)
+  PHP
+  SQL
+  C language (For Advance Hunt Tool)
+  DevOps ***90%***
+  
+  I think with this, we can understand how we can do. and what are we doing. 
 </details>
 
 
