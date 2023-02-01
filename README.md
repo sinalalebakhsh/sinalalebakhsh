@@ -17,7 +17,6 @@
                  
     
 
-[![Linkedin URL](https://img.shields.io/badge/social-linkendin-blue?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/sina-lalebakhsh/)
 
 <p align="center"><h3>I like technology, In this way I want to know discovering vulnerabilities.</h3></p>
 
