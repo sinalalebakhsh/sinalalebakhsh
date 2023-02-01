@@ -41,6 +41,18 @@
 
 <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" alt="Alt text" title="Optional title" width="450" align="center" border-radius="8px"> 
 
+<details>
+    <summary>Top Languages ⚡</summary>
+      <p align="center"> 
+        <img src="https://github-readme-stats-lilac-zeta.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&theme=dark&hide=html,css" 
+        alt="sinalalebakhsh"/>
+      </p>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Navid2zp&color=grey" 
+        alt="sinalalebakhsh" />
+      </p>
+</details>
+
 ---------------------------------------------------------------------------
 <details>
   <summary>Roadmap for Hunt vulnerable Web-Applications ⚡</summary>
