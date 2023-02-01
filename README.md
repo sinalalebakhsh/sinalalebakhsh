@@ -86,9 +86,13 @@
         alt="sinalalebakhsh" />
       </p>
 </details>
-
 <details>
-  <summary>Roadmap for Hunt vulnerable Web-Applications ⚡</summary>
+  <summary>Roadmap for Hunt vulnerable Web-Applications
+      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/pnpm.png" 
+      width="20" 
+      height="20" 
+      alt="grype"/>
+  </summary>
     
     ## In the security world, I think we need:
     1. Python
