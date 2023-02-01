@@ -86,6 +86,9 @@
         alt="sinalalebakhsh" />
       </p>
 </details>
+
+
+
 <details>
   <summary>Roadmap for Hunt vulnerable Web-Applications
       <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/pnpm.png" 
@@ -94,27 +97,35 @@
       alt="grype"/>
   </summary>
     
-    ## In the security world, I think we need:
-    1. Python
-    2. Golang ***100%***
-    3. Django, Flask, React, Or another Framworks
-    4. Linux
-    5. IELTS 7+ (for Iranians)
-    6. Network+
-    7. VPN (stand for: Virtual Private Network)
-    8. Docker
-    9. OWASP
-    10. JavaScript ***100%***
-    11. Bash (Bourne-again SHell)
-    12. PHP
-    13. SQL
-    14. C language (For Advance Hunt Tool)
-    15. DevOps ***90%***
-    #### I think with this, we can understand how we can do. and what are we doing. 
+      # In the security world, I think we need:
+
+      1. Python
+      2. Golang ***100%***
+      3. Django, Flask, React, Or another Framworks
+      4. Linux
+      5. IELTS 7+ (for Iranians)
+      6. Network+
+      7. VPN (stand for: Virtual Private Network)
+      8. Docker
+      9. OWASP
+      10. JavaScript ***100%***
+      11. Bash (Bourne-again SHell)
+      12. PHP
+      13. SQL
+      14. C language (For Advance Hunt Tool)
+      15. DevOps ***90%***
+      
+      #### I think with this, we can understand how we can do. and what are we doing. 
 </details>
-    
+
+
 <details>
-  <summary>The Vision</summary>
+  <summary>The Vision
+      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/snowflake-db.png" 
+      width="20" 
+      height="20" 
+      alt="grype"/>  
+  </summary>
  <h5>My wish was speaking to my stars of dream sky. </h5>
  <h5>And now my wish has come true. </h5>
  <h5>Because all of you was my stars of dream sky. </h5> 
