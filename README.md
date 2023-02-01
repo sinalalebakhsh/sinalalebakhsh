@@ -71,7 +71,12 @@
 
 
 <details>
-    <summary>Top Languages ⚡</summary>
+    <summary>Top Languages     
+      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/atlassian-opsgenie.png" 
+      width="20" 
+      height="20" 
+      alt="grype"/>
+    </summary>
       <p align="center"> 
         <img src="https://github-readme-stats-lilac-zeta.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&theme=dark&hide=html,css" 
         alt="sinalalebakhsh"/>
