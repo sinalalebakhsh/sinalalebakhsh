@@ -52,7 +52,12 @@
 </p>
 
 <details>
-  <summary>Certifications :amazon-chime:</summary>
+  <summary>Certifications 
+    <img src="img-buildkite-64/grype.png" 
+    width="20" 
+    height="20" 
+    alt="grype"/>
+  </summary>
   <p align="center">
     <img 
     src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
