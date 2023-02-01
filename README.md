@@ -51,7 +51,19 @@
   </a>
 </p>
 
-<img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" alt="Alt text" title="Optional title" width="450" align="center" border-radius="8px"> 
+<details>
+  <summary>Certifications ⚡</summary>
+  <p align="center">
+    <img 
+    src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
+    alt="Alt text" 
+    title="Sina Lalehbakhsh" 
+    width="450" 
+    align="center" 
+    border-radius="8px"> 
+  </p>
+</details>
+
 
 <details>
     <summary>Top Languages ⚡</summary>
