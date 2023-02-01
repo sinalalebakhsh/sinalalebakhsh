@@ -1,7 +1,12 @@
-# Sina Lalebakhsh
+# Sina Lalebakhsh 
+### Hi 👋
+---
 
-
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sina-lalebakhsh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/sina-lalebakhsh?trk=profile-badge">Sina Lalebakhsh</a></div>
+<p>
+  <a href="https://stackoverflow.com/users/8069748/navid-zarepak/">
+    <img alt="Stack Overflow	" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
+  </a>
+</p>
                  
     
 
