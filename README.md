@@ -23,10 +23,11 @@
 
 <p align="center"><h3>After learning Python language,I learning Golang now. Along with learning the Go language, I gain experience with technologies related to vulnerability discovery for web applications.</h3></p>
 
+---
 
 <details>
   <summary>Skills
-      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/pnpm.png" 
+      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/nix.png" 
       width="20" 
       height="20" 
       alt="grype"/>
