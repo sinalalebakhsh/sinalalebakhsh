@@ -132,9 +132,9 @@ I think with this, we can understand how we can do. and what are we doing.
  </details>
  
 <details>
-	<details>
+	<summary>
 		Thanks to Teachers
-	</details>
+	</summary>
 	<h2>Thanks to All teachers</h2>
 	<h6>Mohammad Hadi Haji Hosseinin from Codingyar.com</h6>
 	<h6>Mahdi Jabinpoor from abzarwp.com or .ir</h6>
