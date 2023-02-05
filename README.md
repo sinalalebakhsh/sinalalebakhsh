@@ -129,3 +129,15 @@ I think with this, we can understand how we can do. and what are we doing.
  <h5>You can only go towards world peace by learning and teaching.</h5>
  <h5>Learning and teaching the meaning of freedom and awareness.</h5>
  <h5>Sina Lalehbakhsh 2023 January - 1401 Bahman</h5>
+ </details>
+ 
+<details>
+	<details>
+		Thanks to Teachers
+	</details>
+	<h2>Thanks to All teachers</h2>
+	<h6>Mohammad Hadi Haji Hosseinin from Codingyar.com</h6>
+	<h6>Mahdi Jabinpoor from abzarwp.com or .ir</h6>
+	<h6>Mr.Jadi from Jadi.net</h6>
+	<h6>Yashar Shaahin Zaadeh from memoryleaks.ir or .com</h6>
+</details>
