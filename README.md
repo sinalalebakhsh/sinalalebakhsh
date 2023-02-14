@@ -34,10 +34,11 @@
   </summary>
   
 
-   <p>
+   <p align="center">
      <a href="https://github.com/sinalalebakhsh">
+       <h3 align="center">Web Scrapy with Golang</h3>
        <img src="https://skillicons.dev/icons?i=go" />
-     	<h4 align="center">Web Scrapy with Golang</h4>
+     	
      </a>
    </p>
 
@@ -45,7 +46,7 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,python,go,linux,docker,vscode,django,javascript,kubernetes" />
+      <img src="https://skillicons.dev/icons?i=git,python,linux,docker,vscode,django,javascript,kubernetes" />
     </a>
   </p>
 
