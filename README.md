@@ -33,10 +33,10 @@
       alt="grype"/>
   </summary>
   
+<h3 align="center">Web Scrapy with Golang</h3>
 
    <p align="center">
-     <a href="https://github.com/sinalalebakhsh">
-       <h3 align="center">Web Scrapy with Golang</h3>
+     <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=go"/>
    </p>
 
