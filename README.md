@@ -33,9 +33,9 @@
       alt="grype"/>
   </summary>
   
-  <p align="center">
+  <p>
     <a href="https://github.com/sinalalebakhsh">
-    	<h6>Web Scrapy with Golang</h6>
+    	<h6 align="center">Web Scrapy with Golang</h6>
     </a>
   </p>
   
