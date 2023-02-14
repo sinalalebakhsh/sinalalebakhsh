@@ -42,9 +42,18 @@
 
 ---
   
+<h3 align="center">Create Web-Application with Django-Python</h3>
+
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=django,python"/>
+   </p>
+
+---
+
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,python,linux,docker,vscode,django,javascript,kubernetes" />
+      <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,javascript,kubernetes" />
     </a>
   </p>
 
