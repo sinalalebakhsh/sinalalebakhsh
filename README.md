@@ -32,6 +32,13 @@
       height="20" 
       alt="grype"/>
   </summary>
+  
+  <p align="center">
+    <a href="https://github.com/sinalalebakhsh">
+    	<h6>Web Scrapy with Golang</h6>
+    </a>
+  </p>
+  
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,python,go,linux,docker,vscode,django,javascript,kubernetes" />
@@ -44,9 +51,7 @@
     </a>
   </p>
 
-  <p align="center">
-    <h6>Web Scrapy with Golang</h6>
-  </p>
+  
   
   
 </details>
