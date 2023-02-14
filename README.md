@@ -2,23 +2,7 @@
 
 ### Hi 👋
 
-<style>
-div.a {
-  text-align: center;
-}
 
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-} 
-
-div.d {
-  text-align: justify;
-} 
-</style>
 <p>
   <a href="https://stackoverflow.com/users/17351206/sina-lalebakhsh">
     <img alt="Stack Overflow	" 
@@ -49,13 +33,13 @@ div.d {
       alt="grype"/>
   </summary>
   
-  <div class="a">
+
    <p>
      <a href="https://github.com/sinalalebakhsh">
      	<h4 align="center">Web Scrapy with Golang</h4>
      </a>
    </p>
-  </div>
+
 
   
   <p align="center">
