@@ -43,6 +43,12 @@
       <img src="https://skillicons.dev/icons?i=bash,postgresql,c,discord,heroku,php,vim,nginx,github" />
     </a>
   </p>
+
+  <p align="center">
+    <h6>Web Scrapy with Golang</h6>
+  </p>
+  
+  
 </details>
 
 
