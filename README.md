@@ -37,12 +37,10 @@
    <p align="center">
      <a href="https://github.com/sinalalebakhsh">
        <h3 align="center">Web Scrapy with Golang</h3>
-       <img src="https://skillicons.dev/icons?i=go" />
-     	
-     </a>
+       <img src="https://skillicons.dev/icons?i=go"/>
    </p>
 
-
+---
   
   <p align="center">
     <a href="https://skillicons.dev">
