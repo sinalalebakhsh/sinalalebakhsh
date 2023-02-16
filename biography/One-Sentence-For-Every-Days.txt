@@ -46,4 +46,5 @@ Unfortunately, you did not build heaven on earth
 You created a hell where every human being is good or bad
 He should live in it and not talk so as not to offend you.|||||
 I love Autonomous System for discovering vulnerabilities Web-Applications.
-They are AI systems and I want to learn for peace.
+They are AI systems and I want to learn for peace.||||||||||||
+I installed this: in date committed in my vsCode = go install golang.org/x/tools/gopls@latest
