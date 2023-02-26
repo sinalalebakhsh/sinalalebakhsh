@@ -15,11 +15,7 @@
   
  </a>
 
- ```md
-```
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sina-lalebakhsh/)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 
 </p>
                  
