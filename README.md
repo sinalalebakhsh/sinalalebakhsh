@@ -56,20 +56,29 @@
 
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git"/>
+       <img src="https://skillicons.dev/icons?i=git,github"/>
+   </p>
+
+---
+
+<h4 align="center">I use this programs for programming & Content production </h4>
+
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=vscode,pycharm,photoshop"/>
    </p>
 
 ---
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,docker,vscode,javascript,kubernetes" />
+      <img src="https://skillicons.dev/icons?i=linux,docker,javascript,kubernetes" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,postgresql,c,discord,heroku,php,vim,nginx,github" />
+      <img src="https://skillicons.dev/icons?i=bash,postgresql,c,discord,heroku,php,vim,nginx" />
     </a>
   </p>
 
