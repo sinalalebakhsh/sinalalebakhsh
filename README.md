@@ -14,8 +14,8 @@
    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
    </a>
 
-   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=go"/>  
+   <a href="https://www.linkedin.com/in/sina-lalebakhsh/">
+       <img src="https://skillicons.dev/icons?i=linkedin"/>  
    </a>
 
 </p>
