@@ -69,10 +69,12 @@
 
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=vscode,pycharm,photoshop"/>
+       <img src="https://skillicons.dev/icons?i=vscode,photoshop"/>
    </p>
 
 ---
+
+<h4 align="center">After learning 50% Golang I will try to learn this ...</h4>
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -82,7 +84,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,postgresql,c,discord,heroku,php,vim,nginx" />
+      <img src="https://skillicons.dev/icons?i=bash,vim,nginx" />
     </a>
   </p>
 
