@@ -35,6 +35,7 @@
   
 <h3 align="center">Web Scrapy with Golang</h3>
 
+<h5 align="center">Create web-application - Web server </h5>
    <p align="center">
      <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=go"/>
