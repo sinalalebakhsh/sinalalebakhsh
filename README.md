@@ -154,8 +154,7 @@
 11. Bash (Bourne-again SHell)
 12. PHP
 13. SQL
-14. C language (For Advance Hunt Tool)
-15. DevSecOps 
+14. DevSecOps 
 
 I think with this, we can understand how we can do. and what are we doing. 
 </details>
