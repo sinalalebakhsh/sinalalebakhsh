@@ -14,11 +14,10 @@
    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
   
  </a>
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sina-lalebakhsh/)
- ```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-```
 
+ ```md
+```
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sina-lalebakhsh/)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
