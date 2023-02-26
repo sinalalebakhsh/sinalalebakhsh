@@ -15,6 +15,13 @@
   
  </a>
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sina-lalebakhsh/)
+ ```md
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+```
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 </p>
                  
     
