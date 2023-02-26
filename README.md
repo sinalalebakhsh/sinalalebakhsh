@@ -52,9 +52,18 @@
 
 ---
 
+<h3 align="center">My version control projects</h3>
+
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=git"/>
+   </p>
+
+---
+
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,javascript,kubernetes" />
+      <img src="https://skillicons.dev/icons?i=linux,docker,vscode,javascript,kubernetes" />
     </a>
   </p>
 
