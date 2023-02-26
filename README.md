@@ -14,10 +14,8 @@
    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
 
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=go"/>
-  
- </a>
-  </a>
+       <img src="https://skillicons.dev/icons?i=go"/>  
+</a>
 
 
 </p>
