@@ -141,20 +141,26 @@
   </summary>
 <h2>In the security world, I think we need:</h2>
 
-1. Python
-2. Golang ***100%***
-3. Django, Flask, React, Or another Framworks
-4. Linux
-5. IELTS 7+ (for Iranians)
-6. Network+
-7. VPN (stand for: Virtual Private Network)
-8. Docker
-9. OWASP
-10. JavaScript ***100%***
-11. Bash (Bourne-again SHell)
-12. PHP
-13. SQL
-14. DevSecOps 
+|Issue                      | Avrage                                               |
+|---------------------------|------------------------------------------------------|
+| IELTS 7                   | For Iranians   					   |
+| Python                    | 50%            					   |  
+| Golang                    | 100% Or more    					   |  
+| BurpSuite                 | 100%	     					   |
+| Django                    | 20 or 50% less 					   |
+| Flask                     | 20 or 50% less  				 	   |
+| React                     | 50%                                                  |
+| *********************************************************************************|
+| Linux                     | 100%                                                 |
+| Network+                  | 100%                                                 |
+| VPN                       | to run, create , impolement a virtual private server |
+| Docker                    | to run Pentesting tool cover private                 |
+| *********************************************************************************|
+| OWASP                     | 100% and continue	                                   |
+| JavaScript                | 100%  for talking with browsers                      |
+| Bash (Bourne-again SHell) | 100%                                                 |
+| PHP                       | 50%                                                  |
+| SQL                       | 50%                                                  |
 
 I think with this, we can understand how we can do. and what are we doing. 
 </details>
