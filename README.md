@@ -13,6 +13,7 @@
    <img alt="LinkedIn" 
    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
    </a>
+<div>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
@@ -26,7 +27,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
+</div>
 </p>
                  
     
