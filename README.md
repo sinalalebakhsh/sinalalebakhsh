@@ -3,18 +3,19 @@
 ### Hi 👋
 
 
-<h5>Stackoverflow Profile:</h5>
+<h4>Stackoverflow Profile:</h4>
 <a href="https://stackoverflow.com/users/17351206/sina-lalebakhsh">
 <img alt="Stack Overflow	" 
 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflowlogoColor=white" />
 </a>
-<h5>Linkedin Profile:</h5>
+
+<h4>Linkedin Profile:</h4>
 <a href="https://www.linkedin.com/in/sina-lalebakhsh/">
 <img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
 </a>
 
-<p>I get first certificate from edX Harvard.</p>
+<h4>I get first certificate from edX Harvard.</h4>
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
