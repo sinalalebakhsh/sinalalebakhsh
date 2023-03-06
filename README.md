@@ -14,9 +14,7 @@
    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
    </a>
 
-   <a href="https://www.linkedin.com/in/sina-lalebakhsh/">
-       <img src="https://skillicons.dev/icons?i=linkedin"/>  
-   </a>
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 </p>
                  
@@ -101,7 +99,6 @@
     height="20" 
     alt="grype"/>
   </summary>
-  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
   <p align="center">
     <img 
     src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
