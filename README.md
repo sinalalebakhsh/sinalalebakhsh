@@ -95,7 +95,8 @@
 
 
 <details>
-  <summary>Certifications 
+  <summary>Certifications
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) 
     <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/grype.png" 
     width="20" 
     height="20" 
