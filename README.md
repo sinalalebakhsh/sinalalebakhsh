@@ -13,10 +13,7 @@
    <img alt="LinkedIn" 
    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
    </a>
-<div>
-<a>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+I get first certificate from edX Harvard.
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -27,8 +24,6 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-</div>
 </p>
                  
     
