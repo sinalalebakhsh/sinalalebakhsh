@@ -13,6 +13,7 @@
    <img alt="LinkedIn" 
    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
    </a>
+</p>
 I get first certificate from edX Harvard.
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
@@ -25,7 +26,7 @@ I get first certificate from edX Harvard.
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-</p>
+
                  
     
 
