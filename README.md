@@ -31,9 +31,9 @@ I get first certificate from edX Harvard.
     
 
 
-<p align="center">I like technology, In this way I want to know discovering vulnerabilities.</p>
+<p>I like technology, In this way I want to know discovering vulnerabilities.</p>
 
-<p align="center">After learning Python language,I learning Golang now. Along with learning the Go language, I gain experience with technologies related to vulnerability discovery for web applications.</p>
+<p>After learning Python language,I learning Golang now. Along with learning the Go language, I gain experience with technologies related to vulnerability discovery for web applications.</p>
 
 ---
 
