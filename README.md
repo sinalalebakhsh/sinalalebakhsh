@@ -93,16 +93,15 @@
   
 </details>
 
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 <details>
-  <summary>Certifications
- 
+  <summary>Certifications 
     <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/grype.png" 
     width="20" 
     height="20" 
     alt="grype"/>
   </summary>
+  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
   <p align="center">
     <img 
     src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
