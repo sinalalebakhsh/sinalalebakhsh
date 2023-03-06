@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-ov
 src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
 </a>
 
-I get first certificate from edX Harvard.
+<p>I get first certificate from edX Harvard.</p>
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
