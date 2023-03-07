@@ -17,6 +17,24 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
+<details>
+  <summary>Certifications 
+    <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/grype.png" 
+    width="20" 
+    height="20" 
+    alt="grype"/>
+  </summary>
+  <p align="center">
+    <img 
+    src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
+    alt="Alt text" 
+    title="Sina Lalehbakhsh" 
+    width="450" 
+    align="center" 
+    border-radius="8px"> 
+  </p>
+</details>
+
 ---
 - **My Favorite**:
 	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -102,23 +120,7 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 </details>
 
 
-<details>
-  <summary>Certifications 
-    <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/grype.png" 
-    width="20" 
-    height="20" 
-    alt="grype"/>
-  </summary>
-  <p align="center">
-    <img 
-    src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
-    alt="Alt text" 
-    title="Sina Lalehbakhsh" 
-    width="450" 
-    align="center" 
-    border-radius="8px"> 
-  </p>
-</details>
+
 
 
 <details>
