@@ -29,9 +29,11 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
     
 
 
-<p>I like technology, In this way I want to know discovering vulnerabilities.</p>
+<p>I like technology, In this way I want to know discovering vulnerabilities of web application.</p>
 
 <p>After learning Python language,I learning Golang now. Along with learning the Go language, I gain experience with technologies related to vulnerability discovery for web applications.</p>
+
+<p>I learning BurpSuite and another staff for discovering. In this way I am student.</p>
 
 ---
 
