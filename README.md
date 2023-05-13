@@ -164,6 +164,15 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 
 I think with this, we can understand how we can do. and what are we doing. 
 
+<h2>Pratice:</h2>
+
+|Issue                      | Avrage                            |
+|---------------------------|-----------------------------------|
+|TryHackMe                  | Solve every Labs                  |
+|Link:                      | https://tryhackme.com/            |
+
+I think with this, we can understand how we can do. and what are we doing. 
+
 </details>
 
 
