@@ -199,7 +199,7 @@ I think with this, we can understand how we can do. and what are we doing.
 	<summary>
 		Thanks to Teachers
 	</summary>
-	<h2>Thanks to All teachers</h2>
+	<h2>Thanks to All teachers , Since I was born.</h2>
 	<h6>Mr. Ramezaani my math teacher</h6>
 	<h6>Mr. Raayi my art teacher</h6>
 	<h6>Mohammad Hadi Haji Hosseinin from Codingyar.com</h6>
