@@ -151,28 +151,19 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
   </summary>
 <h2>In the security world, I think we need:</h2>
 
-|Issue                      | Avrage                                               |
-|---------------------------|------------------------------------------------------|
-| IELTS 7                   | For Iranians   					   |
-| Python                    | 50%            					   |  
-| Golang                    | 100% Or more    					   |  
-| BurpSuite                 | 100%	     					   |
-| Django                    | 20 or 50% less 					   |
-| Flask                     | 20 or 50% less  				 	   |
-| React                     | 50%                                                  |
-| *********************************************************************************|
-| Linux                     | 100%                                                 |
-| Network+                  | 100%                                                 |
-| VPN                       | to run, create , impolement a virtual private server |
-| Docker                    | to run Pentesting tool cover private                 |
-| *********************************************************************************|
-| OWASP                     | 100% and continue	                                   |
-| JavaScript                | 100%  for talking with browsers                      |
-| Bash (Bourne-again SHell) | 100%                                                 |
-| PHP                       | 50%                                                  |
-| SQL                       | 50%                                                  |
+|Issue                      | Avrage                            |
+|---------------------------|-----------------------------------|
+|Network+                   | 50%                               |
+| VPN                       | run virtual private server (VPS)  |
+| PortSwigger.net(OWASP)    | Solve every Labs	                |
+| BurpSuite                 | 100%	     					              |
+| Linux                     | 50%                               |
+| Golang                    | 50%                               |
+| JavaScript                | 50%                               |
+| Bash (Bourne-again SHell) | 50%                               |
 
 I think with this, we can understand how we can do. and what are we doing. 
+
 </details>
 
 
