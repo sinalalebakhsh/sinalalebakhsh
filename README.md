@@ -151,16 +151,17 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
   </summary>
 <h2>In the security world, I think we need:</h2>
 
-|Issue                      | Avrage                            |
-|---------------------------|-----------------------------------|
-|Network+                   | 50%                               |
-| VPN                       | run virtual private server (VPS)  |
-| PortSwigger.net(OWASP)    | Solve every Labs	                |
-| BurpSuite                 | 100%	     					              |
-| Linux                     | 50%                               |
-| Golang                    | 50%                               |
-| JavaScript                | 50%                               |
-| Bash (Bourne-again SHell) | 50%                               |
+|Issue                      | Avrage                                |
+|---------------------------|---------------------------------------|
+|Public Network Protocols   |Network+,TCP/IP,FTP,HTTP etc           |
+|Private Netwrok Protocols  |VPN protocols like PPTP,L2TP,SSTP etc  |
+|PortSwigger.net(OWASP)     |Solve every Labs with BurpSuite        |
+|Linux                      |more than yesterday!                   |
+|Bash (Bourne-again SHell)  |how many you want hunt it  	    |
+|JavaScript                 |how many you want hunt it              |
+|Golang                     | how many you want automation that     |
+
+
 
 I think with this, we can understand how we can do. and what are we doing. 
 
