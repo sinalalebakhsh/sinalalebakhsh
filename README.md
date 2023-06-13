@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&theme=blue-green&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=blue-green&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=blue-green&layout=pie&hide_progress=true)
 
 <details>
   <summary>Certifications 
