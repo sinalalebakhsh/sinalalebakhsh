@@ -16,6 +16,8 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 <details>
   <summary>Certifications 
     <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/grype.png" 
@@ -84,10 +86,7 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 
 </details>
 
-<details>
-    <summary>Top Languages   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <details>
   <summary>Roadmap for Hunt vulnerable Web-Applications
