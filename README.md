@@ -73,12 +73,6 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 
 ---
 
----
-
----
-
----
-
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=bash,vim,nginx" />
