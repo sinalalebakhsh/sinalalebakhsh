@@ -1,6 +1,5 @@
 ## Hi Everyone I'm Sina Laleh Bakhsh
 
-
 <h4>Stackoverflow Profile:</h4>
 <a href="https://stackoverflow.com/users/17351206/sina-lalebakhsh">
 <img alt="Stack Overflow	" 
@@ -36,16 +35,14 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 </details>
 
 ---
+
 - **My Favorite**:
-	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-	![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ---
-
-                 
-    
-
 
 <p>I like technology, In this way I want to know discovering vulnerabilities of web application.</p>
 
@@ -62,7 +59,7 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
       height="20" 
       alt="grype"/>
   </summary>
-  
+
 <h3 align="center">Web Scrapy with Golang</h3>
 
 <h5 align="center">Create web-application - Web server </h5>
@@ -72,75 +69,25 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
    </p>
 
 ---
-  
-<h3 align="center">Create Web-Application with Django-Python</h3>
-
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=django,python"/>
-   </p>
 
 ---
 
-<h3 align="center">My version control projects</h3>
-
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,github"/>
-   </p>
+---
 
 ---
 
-<h4 align="center">I use this programs for programming & Content production </h4>
-
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=vscode,photoshop"/>
-   </p>
-
----
-
-<h4 align="center">After learning 50% Golang I will try to learn this ...</h4>
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,docker,javascript,kubernetes" />
-    </a>
-  </p>
-
-  <p align="center">
+<p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=bash,vim,nginx" />
     </a>
   </p>
 
-  
-  
-  
 </details>
-
-
-
-
 
 <details>
-    <summary>Top Languages     
-      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/atlassian-opsgenie.png" 
-      width="20" 
-      height="20" 
-      alt="grype"/>
-    </summary>
-      <p align="center"> 
-        <img src="https://github-readme-stats-lilac-zeta.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&theme=dark&hide=html,css" 
-        alt="sinalalebakhsh"/>
-      </p>
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=Navid2zp&color=grey" 
-        alt="sinalalebakhsh" />
-      </p>
+    <summary>Top Languages   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </details>
-
-
 
 <details>
   <summary>Roadmap for Hunt vulnerable Web-Applications
@@ -151,33 +98,30 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
   </summary>
 <h2>In the security world, I think we need:</h2>
 
-|Issue                         |                                          |
-|------------------------------|------------------------------------------|
-|1- Public Network Protocols   |Network+,TCP/IP,FTP,HTTP etc              |
-|2- Private Netwrok Protocols  |VPN protocols like PPTP,L2TP,SSTP etc     |
-|3- PortSwigger.net(OWASP)     |Solve every Labs with BurpSuite           |
-|4- Linux                      |more than yesterday!                      |
-|5- Programming                | in below                                 |
-|Bash (Bourne-again SHell)     |how many you want hunt it  	          |
-|JavaScript                    |how many you want hunt it                 |
-|Golang                        | how many you want automation that        |
+| Issue                        |                                       |
+| ---------------------------- | ------------------------------------- |
+| 1- Public Network Protocols  | Network+,TCP/IP,FTP,HTTP etc          |
+| 2- Private Netwrok Protocols | VPN protocols like PPTP,L2TP,SSTP etc |
+| 3- PortSwigger.net(OWASP)    | Solve every Labs with BurpSuite       |
+| 4- Linux                     | more than yesterday!                  |
+| 5- Programming               | in below                              |
+| Bash (Bourne-again SHell)    | how many you want hunt it             |
+| JavaScript                   | how many you want hunt it             |
+| Golang                       | how many you want automation that     |
 
-
-
-I think with this, we can understand how we can do. and what are we doing. 
+I think with this, we can understand how we can do. and what are we doing.
 
 <h2>Pratice:</h2>
 
-|Issue                      | Avrage                            |
-|---------------------------|-----------------------------------|
-|TryHackMe                  | Solve every Labs                  |
-|Link:                      | https://tryhackme.com/            |
-|rootme                     | https://www.root-me.org/?lang=en  |
+| Issue     | Avrage                           |
+| --------- | -------------------------------- |
+| TryHackMe | Solve every Labs                 |
+| Link:     | https://tryhackme.com/           |
+| rootme    | https://www.root-me.org/?lang=en |
 
-I think with this, we can understand how we can do. and what are we doing. 
+I think with this, we can understand how we can do. and what are we doing.
 
 </details>
-
 
 <details>
   <summary>The Vision
@@ -197,7 +141,7 @@ I think with this, we can understand how we can do. and what are we doing.
  <p>Learning and teaching the meaning of freedom and awareness.</p>
  <p>Sina Lalehbakhsh 2023 January - 1401 Bahman</p>
  </details>
- 
+
 <details>
 	<summary>
 		Thanks to Teachers
