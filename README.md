@@ -3,7 +3,7 @@
 <h4>Stackoverflow Profile:</h4>
 <a href="https://stackoverflow.com/users/17351206/sina-lalebakhsh">
 <img alt="Stack Overflow	" 
-src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflowlogoColor=white" />
+src="https://img.shields.io/badge/-Stackoerflow-orange?style=for-the-badge&logo=stackoverflow" />
 </a>
 
 <h4>Linkedin Profile:</h4>
