@@ -14,8 +14,8 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedi
 
 
 <h4>YouTube:</h4>
-<a href="https://www.linkedin.com/in/sina-lalebakhsh/">
-<img alt="LinkedIn" 
+<a href="https://www.youtube.com/channel/UCy6DohgDr2X9ZLAMdxYu_aA">
+<img alt="YouTube" 
 src="https://img.shields.io/badge/-YouTube-red" />
 </a>
 
