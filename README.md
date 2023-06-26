@@ -3,21 +3,31 @@
 <h4>Stackoverflow Profile:</h4>
 <a href="https://stackoverflow.com/users/17351206/sina-lalebakhsh">
 <img alt="Stack Overflow	" 
-src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflowlogoColor=white" />
+src="https://img.shields.io/badge/-Stackoerflow-orange?style=for-the-badge&logo=stackoverflow" />
 </a>
 
 <h4>Linkedin Profile:</h4>
 <a href="https://www.linkedin.com/in/sina-lalebakhsh/">
 <img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedinlogoColor=white" />
+src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<h4>I get first certificate from edX Harvard.</h4>
+
+<h4>YouTube:</h4>
+<a href="https://www.youtube.com/channel/UCy6DohgDr2X9ZLAMdxYu_aA">
+<img alt="YouTube" 
+src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube" />
+</a>
+
+
+
+<h4>I get first certificate from edX Harvard:</h4>
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=blue-green&layout=pie&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=blue-green&layout=pie&hide_progress=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&theme=blue-green)
+
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&theme=blue-green&show_icons=true)
 
