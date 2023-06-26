@@ -87,6 +87,7 @@ src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=bash,vim,nginx,javascript,python" />
+      <img src="https://skillicons.dev/icons?i=docker,linkedin,linux,ps,ts" />
     </a>
   </p>
 
