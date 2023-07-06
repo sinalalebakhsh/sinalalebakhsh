@@ -26,7 +26,7 @@ src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&theme=blue-green&show_icons=true)
+
 
 <details>
   <summary>Certifications 
