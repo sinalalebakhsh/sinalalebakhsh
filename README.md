@@ -4,7 +4,7 @@
 <a href="https://stackoverflow.com/users/17351206/sina-lalebakhsh"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-orange?style=for-the-badge&logo=stackoverflow" /> </a> <a href="https://www.linkedin.com/in/sina-lalebakhsh/"> <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://www.youtube.com/channel/UCy6DohgDr2X9ZLAMdxYu_aA"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube" /></a>
 
 
-<h2 align="center">Top Languages</h2>
+
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
 <h4>I get first certificate from edX Harvard:</h4>
