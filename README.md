@@ -21,6 +21,9 @@ src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=sinalalebakhsh&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&custom_title=GitHub%20Stats" alt="GitHub Stats" /></a></p>
 
+<h2 align="center">Top Languages</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
+
 <h4>I get first certificate from edX Harvard:</h4>
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
