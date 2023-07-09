@@ -19,8 +19,7 @@ src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linked
 src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube" />
 </a>
 
-<!--START_SECTION:top_language-->
-<!--END_SECTION:top_language-->
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&custom_title=GitHub%20Stats" alt="GitHub Stats" /></a></p>
 
 <h4>I get first certificate from edX Harvard:</h4>
 
