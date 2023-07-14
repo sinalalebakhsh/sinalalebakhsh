@@ -16,10 +16,6 @@
 
 <details>
   <summary>Certifications 
-    <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/grype.png" 
-    width="20" 
-    height="20" 
-    alt="grype"/>
   </summary>
   <p align="center">
     <img 
