@@ -6,6 +6,11 @@
 
 
 <p align=""><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
+- **My Best Skills**:
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 <h4>I get first certificate from edX Harvard:</h4>
 
@@ -34,12 +39,6 @@
 
 ---
 
-- **My Best Skills**:
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
 
 <p>I like technology, In this way I want to know discovering vulnerabilities of web application.</p>
 
@@ -47,7 +46,6 @@
 
 <p>I learning BurpSuite and another staff for discovering. In this way I am student.</p>
 
----
 
 <details>
   <summary>Skills
