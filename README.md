@@ -3,10 +3,11 @@
 
 <a href="https://www.linkedin.com/in/sina-lalebakhsh/"> <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://www.youtube.com/channel/UCy6DohgDr2X9ZLAMdxYu_aA"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube" /></a>
 
-- **My Best Skills**:
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=python&logoColor=white)
 
 
 
