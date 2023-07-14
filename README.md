@@ -9,14 +9,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-<p align=""><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
-
-<h4>I get first certificate from edX Harvard:</h4>
-
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
----
+<p align=""><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
 
 <details>
