@@ -31,27 +31,13 @@
 
 <details>
   <summary>Skills
-      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/nix.png" 
-      width="20" 
-      height="20" 
-      alt="grype"/>
   </summary>
 
-<h3 align="center">Develop Web Application with Golang</h3>
-
-<h5 align="center">Create web-application - Web server </h5>
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=go"/>
-   </p>
-
----
-<h3 align="center">Other tiny skills</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,vim,nginx,javascript,python" />
+      <img src="https://skillicons.dev/icons?i=go,bash,javascript,python" />
       <br>
-      <img src="https://skillicons.dev/icons?i=docker,linkedin,linux,ps,ts" />
+      <img src="https://skillicons.dev/icons?i=docker,linkedin,linux,ps" />
     </a>
   </p>
 
@@ -60,10 +46,6 @@
 
 <details>
   <summary>Roadmap for Hunt vulnerable Web-Applications
-      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/pnpm.png" 
-      width="20" 
-      height="20" 
-      alt="grype"/>
   </summary>
 <h2>In the security world, I think we need:</h2>
 
@@ -91,25 +73,6 @@ I think with this, we can understand how we can do. and what are we doing.
 I think with this, we can understand how we can do. and what are we doing.
 
 </details>
-
-<details>
-  <summary>The Vision
-      <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/snowflake-db.png" 
-      width="20" 
-      height="20" 
-      alt="grype"/>  
-  </summary>
-  <h2>My Vision is Peace of World</h2>
- <p>My wish was speaking to my stars of dream sky. </p>
- <p>And now my wish has come true. </p>
- <p>Because all of you was my stars of dream sky. </p> 
- <p>all readers this page is my stars. </p>
- <p>Every teacher who taught me something became one of the stars of my night. </p>
- <p>You can never fight to achieve peace!!!!</p>
- <p>You can only go towards world peace by learning and teaching.</p>
- <p>Learning and teaching the meaning of freedom and awareness.</p>
- <p>Sina Lalehbakhsh 2023 January - 1401 Bahman</p>
- </details>
 
 <details>
 	<summary>
