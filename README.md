@@ -13,6 +13,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinalalebakhsh&hide_progress=false)
 
+
+<details>
+	<summary>
+	Timeline
+	</summary>
+
+[![Sina Lalehbakhsh](https://github-readme-stats.vercel.app/api/wakatime?username=sinalalebakhsh)](https://github.com/sinalalebakhsh/github-readme-stats)	
+
+</details>
+
 <details>
   <summary>Certifications 
   </summary>
