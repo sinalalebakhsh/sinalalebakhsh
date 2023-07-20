@@ -19,7 +19,7 @@
 	Timeline
 	</summary>
 
-[![Sina Lalehbakhsh](https://github-readme-stats.vercel.app/api/wakatime?username=sinalalebakhsh)](https://github.com/sinalalebakhsh/GO)	
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sinalalebakhsh)](https://github.com/sinalalebakhsh/GO)	
 
 </details>
 
