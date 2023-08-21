@@ -75,11 +75,11 @@ I think with this, we can understand how we can do. and what are we doing.
 		Thanks to Teachers
 	</summary>
 	<h2>Thanks to All teachers , Since I was born.</h2>
-	<h6>Mr. Mohammad Reza ShabanAli https://mrshabanali.com/  https://motamem.org/ </h6>
-	<h6>Mr. Ramezaani my math teacher</h6>
-	<h6>Mr. Raayi my art teacher</h6>
-	<h6>Mohammad Hadi Haji Hosseinin from Codingyar.com</h6>
-	<h6>Mahdi Jabinpoor from abzarwp.com or .ir</h6>
-	<h6>Mr.Jadi from Jadi.net</h6>
-	<h6>Yashar Shaahin Zaadeh from memoryleaks.ir or .com</h6>
+	<h5>Mr. Mohammad Reza ShabanAli https://mrshabanali.com/  https://motamem.org/ </h5>
+	<h5>Mr. Ramezaani my math teacher</h5>
+	<h5>Mr. Raayi my art teacher</h5>
+	<h5>Mohammad Hadi Haji Hosseinin from Codingyar.com</h5>
+	<h5>Mahdi Jabinpoor from abzarwp.com or .ir</h5>
+	<h5>Mr.Jadi from Jadi.net</h5>
+	<h5>Yashar Shaahin Zaadeh from memoryleaks.ir or .com</h5>
 </details>
