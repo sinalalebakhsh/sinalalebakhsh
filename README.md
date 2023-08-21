@@ -59,11 +59,12 @@ I think with this, we can understand how we can do. and what are we doing.
 
 <h2>Pratice:</h2>
 
-| Issue     | Avrage                           |
-| --------- | -------------------------------- |
-| TryHackMe | Solve every Labs                 |
-| Link:     | https://tryhackme.com/           |
-| rootme    | https://www.root-me.org/?lang=en |
+| Issue       | Avrage                           |
+| ---------   | -------------------------------- |
+| Portswigger | Solve every Labs                 |
+| TryHackMe   | Solve every Labs                 |
+| Link:       | https://tryhackme.com/           |
+| rootme      | https://www.root-me.org/?lang=en |
 
 I think with this, we can understand how we can do. and what are we doing.
 
