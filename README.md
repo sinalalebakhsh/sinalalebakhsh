@@ -76,6 +76,7 @@ I think with this, we can understand how we can do. and what are we doing.
 	</summary>
 	<h2>Thanks to All teachers , Since I was born.</h2>
 	<h3>Mr. Mohammad Reza ShabanAli https://mrshabanali.com/  https://motamem.org/ </h3>
+  <h3>Mr Amir Emaad Jadi Mirmirani https://github.com/jadijadi</h3>
 	<h3>Mr. Ramezaani my math teacher</h3>
 	<h3>Mr. Raayi my art teacher</h3>
 	<h3>Mohammad Hadi Haji Hosseinin from Codingyar.com</h3>
