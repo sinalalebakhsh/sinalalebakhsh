@@ -1,3 +1,7 @@
+<img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/0-2--cover-YouTube.jpg" hight="10%" >
+
+----------------------------------------------------------
+
 <h1 align="center">Hi 👋, I'm Sina LalehBakhsh</h1>
 <h3 align="center">A passionate Golang developer from Iran</h3>
 
