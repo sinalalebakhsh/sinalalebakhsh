@@ -8,10 +8,15 @@
   <summary>⭐⭐⭐ about me ⭐⭐⭐
   </summary>
 
+  
+
 <h1 align="center">Hi 👋, I'm Sina LalehBakhsh</h1>
 <h3 align="center">A passionate Golang developer from Iran</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinalalebakhsh&label=Profile%20views&color=0e75b6&style=flat" alt="sinalalebakhsh" /> </p>
+
+- My Practice on English Language [exercism](https://exercism.org/profiles/sinalalebakhsh)
 
 - 🔭 I’m currently working on [Gocron](https://github.com/sinalalebakhsh/Gocron)
 
