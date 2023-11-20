@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5003&pause=1000&color=F705BE&random=false&width=435&lines=A+Golang+Developer;A+Django+Developer;A+Penetration+Tester)](https://git.io/typing-svg)
 
-<img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/0-2--cover-YouTube.jpg" hight="10%" >
-
-----------------------------------------------------------
 
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
