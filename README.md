@@ -71,9 +71,9 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=go,bash,javascript,python" />
+      <img src="https://skillicons.dev/icons?i=go,bash,nginx,python,git" />
       <br>
-      <img src="https://skillicons.dev/icons?i=docker,linkedin,linux,ps" />
+      <img src="https://skillicons.dev/icons?i=docker,linkedin,linux,ps,javascript" />
     </a>
   </p>
 
