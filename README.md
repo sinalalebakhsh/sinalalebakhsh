@@ -2,8 +2,10 @@
 
 
 My Last Project with Django
-http://154.16.16.239:8000
-
+<br>
+Django Project WebApp:  http://154.16.16.239:8000
+<br>
+pdAdmin DataBase:    http://154.16.16.239:8080
 
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
