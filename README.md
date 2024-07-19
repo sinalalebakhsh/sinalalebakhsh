@@ -6,6 +6,8 @@ My Last Project with Django
 Django Project WebApp:  http://154.16.16.239:8000
 <br>
 pdAdmin DataBase:    http://154.16.16.239:8080
+<br>
+Sample Products Page: http://154.16.16.239:8000/products/
 
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
