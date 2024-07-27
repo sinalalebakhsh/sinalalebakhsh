@@ -12,14 +12,14 @@ My Last Project with Django
 
 <br>
 
-[Sample Products Page]
+
 
 <br>
 
-[Django Project WebApp]: http://154.16.16.239:8000
+[Django Project WebApp]: http://acronproject.com/
 
 [pdAdmin DataBase]:http://154.16.16.239:8080
-[Sample Products Page]:http://154.16.16.239:8000/products/
+
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
   </summary>
