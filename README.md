@@ -4,7 +4,10 @@
 My Last Project with Django
 <br>
 
-[Django Project WebApp]
+acronproject.com
+<br>
+
+[Django Project WebApp : acronproject.com]
 
 <br>
 
@@ -15,8 +18,9 @@ My Last Project with Django
 
 
 <br>
+[acronproject.com]: http://acronproject.com/
 
-[Django Project WebApp]: http://acronproject.com/
+[Django Project WebApp = acronproject.com]: http://acronproject.com/
 
 [pdAdmin DataBase]:http://154.16.16.239:8080
 
