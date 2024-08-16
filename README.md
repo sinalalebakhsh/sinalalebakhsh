@@ -5,7 +5,11 @@ My Last Project with Django
 <br>
 
 ### <a target="_blank">[acronproject.com]</a>
+
 <a href="acronproject.com" target="_blank">acronproject.com</a>
+
+<br>
+<br>
 [Django Project WebApp acronproject.com]
 
 <br>
