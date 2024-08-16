@@ -18,9 +18,9 @@ My Last Project with Django
 
 <br>
 
-[acronproject.com]:  http://www.acronproject.com:8080
+[acronproject.com]:  https://acronproject.com
 
-[Django Project WebApp acronproject.com]: http://www.acronproject.com:8080
+[Django Project WebApp acronproject.com]: https://acronproject.com
 
 [pdAdmin DataBase]:http://154.16.16.239:8081
 
