@@ -4,29 +4,7 @@
 My Last Project with Django
 <br>
 
-### <a target="_blank">[acronproject.com]</a>
-
-<a href="acronproject.com" target="_blank">acronproject.com</a>
-
-<br>
-<br>
-[Django Project WebApp acronproject.com]
-
-<br>
-
-[pdAdmin DataBase] 
-
-<br>
-
-
-
-<br>
-
-[acronproject.com]:  https://acronproject.com
-
-[Django Project WebApp acronproject.com]: https://acronproject.com
-
-[pdAdmin DataBase]:http://154.16.16.239:8081
+### <a href="acronproject.com" target="_blank">acronproject.com</a>
 
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
