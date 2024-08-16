@@ -4,7 +4,7 @@
 My Last Project with Django
 <br>
 
-### [acronproject.com]
+### <a target="_blank">[acronproject.com]</a>
 
 [Django Project WebApp acronproject.com]
 
