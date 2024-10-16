@@ -4,7 +4,7 @@
 My Last Project with Django
 <br>
 
-### <a href="https://www.acronproject.com" target="_blank">acronproject.com</a>
+### <a href="https://acronproject.liara.run" target="_blank">acronproject.com</a>
 
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
