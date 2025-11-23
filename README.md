@@ -129,5 +129,18 @@ I think with this, we can understand how we can do. and what are we doing.
 	<h3>Yashar Shaahin Zaadeh from https://memoryleaks.ir/</h3>
 </details>
 
+
+<details>
+	<summary>
+		Resume image
+	</summary>
+	<p align="left"> <a href="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__English.jpg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__English.jpg" alt="bash" width="250" /> </a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__Germany.jpg" alt="bash" width="250" /> </a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__FARSI.jpg" alt="bash" width="250" /> </a> 
+</details>
+
+
+
  
 </details>
+
+
+
