@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5003&pause=1000&color=F705BE&random=false&width=435&lines=Art+and+Technology;A+Golang+Developer;A+Django+Developer;A+Penetration+Tester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5003&pause=1000&color=F705BE&random=false&width=435&lines=Django+developer;DevOps+Engineer;Art+and+Technology;A+Django+Developer;A+Penetration+Tester;DevOps+culture)](https://git.io/typing-svg)
 
 
 
@@ -12,7 +12,7 @@
   
 
 <h1 align="center">Hi 👋, I'm Sina LalehBakhsh</h1>
-<h3 align="center">A passionate Golang developer from Iran</h3>
+<h3 align="center">A passionate ِDjango developer from Iran</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinalalebakhsh&label=Profile%20views&color=0e75b6&style=flat" alt="sinalalebakhsh" /> </p>
@@ -137,7 +137,9 @@ I think with this, we can understand how we can do. and what are we doing.
 	<p align="left"> <a href="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__English.jpg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__English.jpg" alt="bash" width="250" /> </a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__Germany.jpg" alt="bash" width="250" /> </a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Django__DevOps__FARSI.jpg" alt="bash" width="250" /> </a> 
 </details>
 
-
+من چالش‌های DevOps و Django را به عنوان فرصتی برای رشد می‌بینم.
+I see the challenges of DevOps and Django as an opportunity for growth.
+Ich sehe die Herausforderungen von DevOps und Django als eine Chance für meine Weiterentwicklung.
 
  
 </details>
