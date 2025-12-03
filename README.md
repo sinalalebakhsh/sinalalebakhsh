@@ -69,7 +69,7 @@
   </p>
   <p align="center">
     <img 
-    src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/harvard%20Cer.png" 
+    src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Screenshot_20251203-085838.png" 
     alt="Alt text" 
     title="Sina Lalehbakhsh" 
     width="450" 
