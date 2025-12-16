@@ -69,13 +69,22 @@
   </p>
   <p align="center">
     <img 
-    src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/Screenshot_20251203-085838.png" 
+    src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/%D8%AF%D9%88%D8%B1%D9%87%20%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AF%D9%88%D8%A7%D9%BE%D8%B3%20Associate%20DevOps%20Engineer.jpg" 
     alt="Alt text" 
     title="Sina Lalehbakhsh" 
     width="450" 
     align="center" 
     border-radius="8px"> 
   </p>
+<p align="center">
+	    <img 
+	    src="https://raw.githubusercontent.com/sinalalebakhsh/sinalalebakhsh/refs/heads/main/%D8%AF%D9%88%D8%B1%D9%87%20%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C%20%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4%20%D8%A7%D8%A8%D8%B1%DB%8C%20Foundational%20Cloud%20Practitioner.jpg" 
+	    alt="Alt text" 
+	    title="Sina Lalehbakhsh" 
+	    width="450" 
+	    align="center" 
+	    border-radius="8px"> 
+</p>
 </details>
 
 <details>
