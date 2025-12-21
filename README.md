@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5003&pause=1000&color=F705BE&random=false&width=435&lines=Django+developer;DevOps+Engineer;Art+and+Technology;A+Django+Developer;A+Penetration+Tester;DevOps+culture)](https://git.io/typing-svg)
-
-
-
-<br>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5003&pause=1000&color=F705BE&random=false&width=435&lines=Django+developer;DevOps+Engineer;Art+and+Technology;A+Django+Developer;A+Penetration+Tester;DevOps+culture)](https://git.io/typing-svg)<br>
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
   </summary>
