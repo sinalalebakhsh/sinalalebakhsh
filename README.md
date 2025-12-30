@@ -1,4 +1,9 @@
+# [Resume PDF](https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/Django%20Backend%20Engineer%20%E2%80%93%20Data%20%26%20Performance.pdf)
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5003&pause=1000&color=F705BE&random=false&width=435&lines=Django+developer;DevOps+Engineer;Art+and+Technology;A+Django+Developer;A+Penetration+Tester;DevOps+culture)](https://git.io/typing-svg)<br>
+
 <details>
   <summary>⭐⭐⭐ about me ⭐⭐⭐
   </summary>
